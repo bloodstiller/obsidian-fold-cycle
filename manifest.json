@@ -1,8 +1,8 @@
 {
   "id": "fold-cycle",
   "name": "Fold Cycle",
-  "version": "1.0.0",
-  "minAppVersion": "1.0.0",
+  "version": "1.1.0",
+  "minAppVersion": "1.1.0",
   "description": "org-mode style fold cycling: SHOW ALL → TOP LEVEL → H1+H2 → ALL HEADINGS.",
   "author": "bloodstiller",
   "authorUrl": "https://bloodstiller.com",
